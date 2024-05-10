@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ctrl_work")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+803f66dd50c516572972dafb469c482d54a23c61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cded6e068bfbc443e7c13227292cbc1e4cb2588")]
 [assembly: System.Reflection.AssemblyProductAttribute("ctrl_work")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ctrl_work")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
