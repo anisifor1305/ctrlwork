@@ -1,0 +1,14 @@
+c:\Users\Sergey\Downloads\ctrl_work\bin\Debug\net9.0\ctrl_work.exe
+C:\Users\Sergey\Downloads\ctrl_work\bin\Debug\net9.0\ctrl_work.deps.json
+C:\Users\Sergey\Downloads\ctrl_work\bin\Debug\net9.0\ctrl_work.runtimeconfig.json
+c:\Users\Sergey\Downloads\ctrl_work\bin\Debug\net9.0\ctrl_work.dll
+c:\Users\Sergey\Downloads\ctrl_work\bin\Debug\net9.0\ctrl_work.pdb
+c:\Users\Sergey\Downloads\ctrl_work\obj\Debug\net9.0\ctrl_work.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sergey\Downloads\ctrl_work\obj\Debug\net9.0\ctrl_work.AssemblyInfoInputs.cache
+c:\Users\Sergey\Downloads\ctrl_work\obj\Debug\net9.0\ctrl_work.AssemblyInfo.cs
+c:\Users\Sergey\Downloads\ctrl_work\obj\Debug\net9.0\ctrl_work.csproj.CoreCompileInputs.cache
+c:\Users\Sergey\Downloads\ctrl_work\obj\Debug\net9.0\ctrl_work.dll
+c:\Users\Sergey\Downloads\ctrl_work\obj\Debug\net9.0\refint\ctrl_work.dll
+c:\Users\Sergey\Downloads\ctrl_work\obj\Debug\net9.0\ctrl_work.pdb
+C:\Users\Sergey\Downloads\ctrl_work\obj\Debug\net9.0\ctrl_work.genruntimeconfig.cache
+C:\Users\Sergey\Downloads\ctrl_work\obj\Debug\net9.0\ref\ctrl_work.dll
